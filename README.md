@@ -93,7 +93,7 @@ Use stable internet connection if using online libraries.
 POOJASHREE K
 PRAISY V
 
-## GUIDED BY: Mrs.M.C.VINMATHI
+## GUIDED BY: Mrs.M.S.VINMATHI
 
 ## DEMO VIDEO
 https://drive.google.com/file/d/1bDxpy_6e2W8fSbi0bKMFWBPXwcIsKG26/view?usp=drive_link
